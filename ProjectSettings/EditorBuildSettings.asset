@@ -4,7 +4,12 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/ColetaGameplay.unity
+    guid: 2fe20fd446f20c74d9eb413a46c075c3
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 2024f330c04be914390c1abd76ec7f65,
+      type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 191ae192016e9554984f4baaf9f41de6,
       type: 2}
